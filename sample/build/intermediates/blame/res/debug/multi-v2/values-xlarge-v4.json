@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ATI\\Desktop\\zoom-sdk-intregration\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ATI\\.gradle\\caches\\transforms-1\\files-1.1\\mobilertc.aar\\c446c949e0b25c840d9b059cb8dbf906\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ATI\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\fa1a502e9b151d7cc1a3648255d91e04\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "102,173,244,314,384,452",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "168,239,309,379,447,515"
+                    }
+                }
+            ]
+        }
+    ]
+}

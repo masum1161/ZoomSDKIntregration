@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ATI\\Desktop\\zoom-sdk-intregration\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-h680dp-v13\\values-sw360dp-h680dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ATI\\.gradle\\caches\\transforms-1\\files-1.1\\mobilertc.aar\\c446c949e0b25c840d9b059cb8dbf906\\res\\values-sw360dp-h680dp-v13\\values-sw360dp-h680dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,171,227",
+                        "endColumns": "55,59,55,60",
+                        "endOffsets": "106,166,222,283"
+                    }
+                }
+            ]
+        }
+    ]
+}
